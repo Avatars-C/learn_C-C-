@@ -57,7 +57,7 @@ int main ( void )
    long a=1989;
    long b =1590;
    int test = gcd(a,b);
-   cout<<"test = "<<test<<endl;
+   cout<<"gcd_test = "<<test<<endl;
    
    return 0;
 }
